@@ -13,6 +13,7 @@
 		2D25345C270F3AF300CEF345 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2D25345A270F3AF300CEF345 /* Main.storyboard */; };
 		2D25345E270F3AF500CEF345 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2D25345D270F3AF500CEF345 /* Assets.xcassets */; };
 		2D253461270F3AF500CEF345 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2D25345F270F3AF500CEF345 /* LaunchScreen.storyboard */; };
+		2D253469270F3C7000CEF345 /* CWB Sun And Moon JSON Type.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D253468270F3C7000CEF345 /* CWB Sun And Moon JSON Type.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		2D25345D270F3AF500CEF345 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2D253460270F3AF500CEF345 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2D253462270F3AF500CEF345 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2D253468270F3C7000CEF345 /* CWB Sun And Moon JSON Type.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "CWB Sun And Moon JSON Type.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				2D253454270F3AF300CEF345 /* AppDelegate.swift */,
 				2D253456270F3AF300CEF345 /* SceneDelegate.swift */,
 				2D253458270F3AF300CEF345 /* ViewController.swift */,
+				2D253468270F3C7000CEF345 /* CWB Sun And Moon JSON Type.swift */,
 				2D25345A270F3AF300CEF345 /* Main.storyboard */,
 				2D25345D270F3AF500CEF345 /* Assets.xcassets */,
 				2D25345F270F3AF500CEF345 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			files = (
 				2D253459270F3AF300CEF345 /* ViewController.swift in Sources */,
 				2D253455270F3AF300CEF345 /* AppDelegate.swift in Sources */,
+				2D253469270F3C7000CEF345 /* CWB Sun And Moon JSON Type.swift in Sources */,
 				2D253457270F3AF300CEF345 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
